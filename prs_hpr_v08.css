@@ -461,12 +461,12 @@ ul > li {
 }
 @font-face {
 	font-family: BoschOfficeSans;
-	src: url(../fonts/BoschOfficeSans-Bold_V2_45.ttf);
+	src: url(../test12/fonts/BoschOfficeSans-Bold_V2_45.ttf);
 	font-weight: bold;
 }
 @font-face {
 	font-family: BoschOfficeSans;
-	src: url(../fonts/BoschOfficeSans-Regular_V2_45.ttf);
+	src: url(../test12/fonts/BoschOfficeSans-Regular_V2_45.ttf);
 }
 @keyframes dw1 {
 	0% {
